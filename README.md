@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShirajPriyansh
 - 👀 I’m interested in web development
-- 😎 Basic Knowledge of HTML, CSS
-- 🌱 I’m currently learning git/github, CSS, Bootstrap, JavaScript,
+- 😎 Basic Knowledge of HTML, CSS, git/github, Bootstrap, JavaScript
+- 🌱 I’m currently learning Database
 - 📫 Email Address priyansh_shiraj@outlook.com
 
 <!---
